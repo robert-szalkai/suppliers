@@ -1,0 +1,365 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
+/*! !!../../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./SupplierItem.module.css */
+
+/*! !!../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./FeaturedSlide.module.css */
+
+/*! !!../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./NoResults.module.css */
+
+/*! !!../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./Search.module.css */
+
+/*! !!../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./Suppliers.module.css */
+
+/*! !!../../../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./Tabs.module.css */
+
+/*! !!../node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./App.module.css */
+
+/*! !../../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../../../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! !../node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js */
+
+/*! ../../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../../node_modules/css-loader/dist/runtime/cssWithMappingToString.js */
+
+/*! ../../../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../../../node_modules/css-loader/dist/runtime/cssWithMappingToString.js */
+
+/*! ../NoResults/NoResults */
+
+/*! ../node_modules/css-loader/dist/runtime/api.js */
+
+/*! ../node_modules/css-loader/dist/runtime/cssWithMappingToString.js */
+
+/*! ./App.js */
+
+/*! ./App.module.css */
+
+/*! ./FeaturedSlide.module.css */
+
+/*! ./NoResults.module.css */
+
+/*! ./Search.module.css */
+
+/*! ./SupplierItem.module.css */
+
+/*! ./SupplierItem/SupplierItem */
+
+/*! ./Suppliers.module.css */
+
+/*! ./Tabs.module.css */
+
+/*! ./arrayLikeToArray.js */
+
+/*! ./arrayWithHoles.js */
+
+/*! ./arrayWithoutHoles.js */
+
+/*! ./cjs/react-dom.development.js */
+
+/*! ./cjs/react.development.js */
+
+/*! ./cjs/scheduler-tracing.development.js */
+
+/*! ./cjs/scheduler.development.js */
+
+/*! ./components/FeaturedSlide/FeaturedSlide */
+
+/*! ./components/Search/Search */
+
+/*! ./components/Suppliers/Suppliers */
+
+/*! ./components/tabs/Tabs */
+
+/*! ./hooks/useHandleData */
+
+/*! ./iterableToArray.js */
+
+/*! ./iterableToArrayLimit.js */
+
+/*! ./nonIterableRest.js */
+
+/*! ./nonIterableSpread.js */
+
+/*! ./services/Utils */
+
+/*! ./unsupportedIterableToArray.js */
+
+/*! @babel/runtime/helpers/asyncToGenerator */
+
+/*! @babel/runtime/helpers/defineProperty */
+
+/*! @babel/runtime/helpers/slicedToArray */
+
+/*! @babel/runtime/helpers/toConsumableArray */
+
+/*! @babel/runtime/regenerator */
+
+/*! object-assign */
+
+/*! react */
+
+/*! react-dom */
+
+/*! regenerator-runtime */
+
+/*! scheduler */
+
+/*! scheduler/tracing */
+
+/*!********************!*\
+  !*** ./src/App.js ***!
+  \********************/
+
+/*!**********************!*\
+  !*** ./src/index.js ***!
+  \**********************/
+
+/*!****************************!*\
+  !*** ./src/App.module.css ***!
+  \****************************/
+
+/*!*******************************!*\
+  !*** ./src/services/Utils.js ***!
+  \*******************************/
+
+/*!************************************!*\
+  !*** ./src/hooks/useHandleData.js ***!
+  \************************************/
+
+/*!*************************************!*\
+  !*** ./node_modules/react/index.js ***!
+  \*************************************/
+
+/*!*************************************!*\
+  !*** ./src/components/tabs/Tabs.js ***!
+  \*************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/react-dom/index.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./node_modules/scheduler/index.js ***!
+  \*****************************************/
+
+/*!*****************************************!*\
+  !*** ./src/components/Search/Search.js ***!
+  \*****************************************/
+
+/*!*******************************************!*\
+  !*** ./node_modules/scheduler/tracing.js ***!
+  \*******************************************/
+
+/*!*********************************************!*\
+  !*** ./node_modules/object-assign/index.js ***!
+  \*********************************************/
+
+/*!*********************************************!*\
+  !*** ./src/components/tabs/Tabs.module.css ***!
+  \*********************************************/
+
+/*!***********************************************!*\
+  !*** ./src/components/NoResults/NoResults.js ***!
+  \***********************************************/
+
+/*!***********************************************!*\
+  !*** ./src/components/Suppliers/Suppliers.js ***!
+  \***********************************************/
+
+/*!*************************************************!*\
+  !*** ./src/components/Search/Search.module.css ***!
+  \*************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/api.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/react/cjs/react.development.js ***!
+  \*****************************************************/
+
+/*!*****************************************************!*\
+  !*** ./node_modules/regenerator-runtime/runtime.js ***!
+  \*****************************************************/
+
+/*!*******************************************************!*\
+  !*** ./src/components/FeaturedSlide/FeaturedSlide.js ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./src/components/NoResults/NoResults.module.css ***!
+  \*******************************************************/
+
+/*!*******************************************************!*\
+  !*** ./src/components/Suppliers/Suppliers.module.css ***!
+  \*******************************************************/
+
+/*!**********************************************************!*\
+  !*** ./node_modules/@babel/runtime/regenerator/index.js ***!
+  \**********************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/react-dom/cjs/react-dom.development.js ***!
+  \*************************************************************/
+
+/*!*************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler.development.js ***!
+  \*************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/components/FeaturedSlide/FeaturedSlide.module.css ***!
+  \***************************************************************/
+
+/*!***************************************************************!*\
+  !*** ./src/components/Suppliers/SupplierItem/SupplierItem.js ***!
+  \***************************************************************/
+
+/*!******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/slicedToArray.js ***!
+  \******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js ***!
+  \*******************************************************************/
+
+/*!*******************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/defineProperty.js ***!
+  \*******************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/iterableToArray.js ***!
+  \********************************************************************/
+
+/*!********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/nonIterableRest.js ***!
+  \********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js ***!
+  \*********************************************************************/
+
+/*!*********************************************************************!*\
+  !*** ./node_modules/scheduler/cjs/scheduler-tracing.development.js ***!
+  \*********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js ***!
+  \**********************************************************************/
+
+/*!**********************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/toConsumableArray.js ***!
+  \**********************************************************************/
+
+/*!***********************************************************************!*\
+  !*** ./src/components/Suppliers/SupplierItem/SupplierItem.module.css ***!
+  \***********************************************************************/
+
+/*!************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/runtime/cssWithMappingToString.js ***!
+  \************************************************************************/
+
+/*!*************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js ***!
+  \*************************************************************************/
+
+/*!****************************************************************************!*\
+  !*** ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js ***!
+  \****************************************************************************/
+
+/*!*******************************************************************************!*\
+  !*** ./node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js ***!
+  \*******************************************************************************/
+
+/*!**********************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/App.module.css ***!
+  \**********************************************************************************************/
+
+/*!***************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/tabs/Tabs.module.css ***!
+  \***************************************************************************************************************/
+
+/*!*******************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/Search/Search.module.css ***!
+  \*******************************************************************************************************************/
+
+/*!*************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/NoResults/NoResults.module.css ***!
+  \*************************************************************************************************************************/
+
+/*!*************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/Suppliers/Suppliers.module.css ***!
+  \*************************************************************************************************************************/
+
+/*!*********************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/FeaturedSlide/FeaturedSlide.module.css ***!
+  \*********************************************************************************************************************************/
+
+/*!*****************************************************************************************************************************************!*\
+  !*** ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[1].use[1]!./src/components/Suppliers/SupplierItem/SupplierItem.module.css ***!
+  \*****************************************************************************************************************************************/
+
+/**
+ * Checks if an event is supported in the current execution environment.
+ *
+ * NOTE: This will not work correctly for non-generic events such as `change`,
+ * `reset`, `load`, `error`, and `select`.
+ *
+ * Borrows from Modernizr.
+ *
+ * @param {string} eventNameSuffix Event name, e.g. "click".
+ * @return {boolean} True if the event is supported.
+ * @internal
+ * @license Modernizr 3.0.0pre (Custom Build) | MIT
+ */
+
+/** @license React v0.20.2
+ * scheduler-tracing.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v0.20.2
+ * scheduler.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react-dom.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/** @license React v17.0.2
+ * react.development.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
