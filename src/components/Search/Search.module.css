@@ -1,0 +1,21 @@
+.suppliers-search-wrap {
+  margin-left: auto;
+  margin-right: auto;
+  width: 536px;
+  margin-bottom: 12px;
+}
+
+.quicksearch {
+    width: 100%;
+    padding: 22px 24px;
+    border-radius: 9px;
+    border: none;
+    font-size: 20px;
+  }
+
+@media (max-width: 767px) {
+  .suppliers-search-wrap {
+    margin: 0 20px 20px 20px;
+    width: calc(100% - 40px);
+  }
+}

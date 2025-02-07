@@ -1,0 +1,41 @@
+.featured {
+  width: 100%;
+  height: 354px;
+  display: grid;
+  overflow: hidden;
+}
+
+.featured-box {
+  width: 999999px;
+  animation: suppliers-slider 50000s linear infinite;
+  background-size: contain;
+}
+
+.bg-normal {
+  background-image: url("https://pago.pago.ro/assets/images/suppliers_featured.png");
+}
+
+.bg-energy {
+  background-image: url("https://pago.pago.ro/assets/images/energy_featured.png");
+}
+
+@media
+  (-webkit-min-device-pixel-ratio: 1.25) {
+    .bg-normal {
+      background-image: url("https://pago.pago.ro/assets/images/suppliers_featured@2x.png");
+    }
+
+    .bg-energy {
+      background-image: url("https://pago.pago.ro/assets/images/energy_featured@2x.png");
+    }
+  }
+
+@keyframes suppliers-slider {
+  0% {
+    transform: translateX(0%);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}

@@ -1,0 +1,7 @@
+.app {
+  display: grid;
+}
+
+.app.energy {
+  gap: 32px;
+}

@@ -1,0 +1,532 @@
+{
+    "energy": [
+        {
+            "supplierName": "Electrica",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_electrica.png",
+            "supplierCategory": "Electricity_Gas"
+        },
+        {
+            "supplierName": "Enel",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_enel_ro.png",
+            "supplierCategory": "Electricity_Gas"
+        },
+        {
+            "supplierName": "Engie",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_engie.png",
+            "supplierCategory": "Electricity_Gas"
+        },
+        {
+            "supplierName": "Premier Energy",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_premier_energy.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Wirom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_wirom.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "HEP Struja",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_hep_struja.png",
+            "supplierCategory": "Electricity"
+        },
+        {
+            "supplierName": "GEN-I",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gen_i.png",
+            "supplierCategory": "Electricity"
+        },
+        {
+            "supplierName": "RWE Struja",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rwe_struja.png",
+            "supplierCategory": "Electricity"
+        },
+        {
+            "supplierName": "Gradska Plinara Zagreb",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gradska_plinara_zagreb.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "RWE Plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rwe_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "HEP Plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_hep_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Energo",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_energo.png",
+            "supplierCategory": "Electricity_Gas"
+        },
+        {
+            "supplierName": "Plinara Pula",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plinara_pula.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Darkom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_darkom.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Brod Plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_brod_plin.png",
+            "supplierCategory": "Gas_Electricity"
+        },
+        {
+            "supplierName": "Dukom Plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_dukom_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Energometan",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_energometan.png",
+            "supplierCategory": "Electricity_Gas"
+        },
+        {
+            "supplierName": "EVN",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_evn.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Gradska plinara Krapina",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gradska_plinara_krapina.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Ivaplin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_ivaplin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Ivkom plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_ivkom_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plin Garešnica",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plin_garešnica.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Koprivnica plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_koprivnica_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Pakrac plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_pakrac_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Čaplin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_caplin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Komunalije plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalije_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plinkom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plinkom.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Medjimurje plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_medjimurje_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Montcogim plinara",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_montcogim_plinara.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Moslavina plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_moslavina_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plin Konjščina",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plin_konjščina.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plin Vrbovec",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plin_vrbovec.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plin Virovitica",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plin_virovitica.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "PIS",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_pis.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Plin projekt",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_plin_projekt.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Prvo plinarsko društvo",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_prvo_plinarsko_društvo.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Termoplin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_termoplin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Zagorski Metalac",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_zagorski_metalac.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Zelenjak plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_zelenjak_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Zelina plin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_zelina_plin.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Linde",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_linde.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "HEP Toplinarstvo",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_hep_toplinarstvo.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Gradska toplana Karlovac",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gradska_toplana_karlovac.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "GTG Vinkovci",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gtg_vinkovci.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Tehnostan",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_tehnostan.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Vartop",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_vartop.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Komunalac Požega",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalac_pozega.png",
+            "supplierCategory": "Gas"
+        },
+        {
+            "supplierName": "Poslovni park Virovitica",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_poslovni_park_virovitica.png",
+            "supplierCategory": "Gas"
+        }
+    ],
+    "telecom": [
+        {
+            "supplierName": "Vodafone (serviciile UPC)",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_vodafone_servicii_fixe_tv.png",
+            "supplierCategory": "TV"
+        },
+        {
+            "supplierName": "Vodafone",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_vodafone.png",
+            "supplierCategory": "Mobile"
+        },
+        {
+            "supplierName": "Orange",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_orange.png",
+            "supplierCategory": "Mobile_TV"
+        },
+        {
+            "supplierName": "Telekom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_telekom_hr.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "A1 Hrvatska",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_a1_hrvatska.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "Tele2",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_tele2.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "Iskon",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_iskon.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "Optima",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_optima.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "Bonbon",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_bonbon.png",
+            "supplierCategory": "TV_Mobile"
+        },
+        {
+            "supplierName": "Tomato",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_tomato.png",
+            "supplierCategory": "TV_Mobile"
+        }
+    ],
+    "water": [
+        {
+            "supplierName": "Compania de Apa Buzau",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_buzau.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Aquatim",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_aquatim.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Somes - Cluj",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_somes.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Somes - Dej",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_somes.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Somes - Gherla",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_somes.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Somes - Huedin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_somes.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Somes - Salaj",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apa_somes.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Compania de Apa Aries Turda",
+            "supplierLogo": "https://i.imgur.com/wBQGWGC.png",
+            "supplierCategory": "Water"
+        },
+        {
+            "supplierName": "Apaserv SM",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_apaserv_satu_mare.png",
+            "supplierCategory": "Water"
+        }
+    ],
+    "waste": [
+        {
+            "supplierName": "Florisal SM",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_florisal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "REBU",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rebu.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "RER Vest Oradea",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rer_vest.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Rosal Prahova",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rosal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Rosal Olt",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rosal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Rosal Bucuresti",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rosal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Rosal Urziceni",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rosal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Rosal Pop.-Leordeni",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_rosal.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Zagreb",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_zagreb.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Split",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_split.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Rijeka",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_rijeka.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Unikom Osijek",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_unikom_osijek.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Komunalac S. Brod",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalac_s_brod.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Komunalac Bjelovar",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalac_bjelovar.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Zadar",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_zadar.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "VG Čistoća",
+            "supplierLogo": "http://pagoplateste.ro/provider_logos/logo_vg_cistoka.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Šibenik",
+            "supplierLogo": "http://pagoplateste.ro/provider_logos/logo_vodovod_sibenik.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Pula Herculanea",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_pula_herculanea.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Varaždin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_varazdin.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Komunalno poduzeće Križevci",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalno_poduzece_krizevci.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Komunalac Vrbovec",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_komunalac_vrbovec.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Slatina Kom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_slatina_kom.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Ivakop",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_ivakop.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Nevkoš",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_nevkos.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Usluga Pazin",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_usluga_pazin.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čakom",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cakom.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Zelenjak",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_zelenjak.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Čistoća Karlovac",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_cistoca_karlovac.png",
+            "supplierCategory": "Waste"
+        },
+        {
+            "supplierName": "Gos Sisak",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_gos_sisak.png",
+            "supplierCategory": "Waste"
+        }
+    ],
+    "others": [
+        {
+            "supplierName": "NN Asigurari",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_nn.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Fan Courier",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_fan_curier.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Garanti BankBonus",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_garanti_bank_bonus.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Asoc. Prop. Oltenitei Gama 13D, Popesti Leordeni",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_asoc_prop_oltenitei_gama.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Oriflame Cosmetics Romania",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_oriflame_cosmetics.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "7card",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_7card.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Asoc. Prop. Vivenda Residencias - Cladirea B, Sector 2, Bucuresti",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_asoc_prop_vivenda_residencias_cladirea_b.png",
+            "supplierCategory": "Other"
+        },
+        {
+            "supplierName": "Oligopol",
+            "supplierLogo": "https://pagoplateste.ro/provider_logos/logo_oligopol.png",
+            "supplierCategory": "Other"
+        }
+    ]
+}
