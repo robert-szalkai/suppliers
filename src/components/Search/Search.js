@@ -1,33 +1,34 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from "react";
 
-import classes from './Search.module.css';
+import classes from "./Search.module.css";
 
 const Search = ({ searchValue, searchHandler }) => {
-    const [placeholderText, setPlaceholderText] = useState("Cauta");
+  const [placeholderText, setPlaceholderText] = useState("Cauta");
 
-    useEffect(async () => {
-        const key = "cauta furnizori";
-        const payload = ["cauta furnizori"];
+  useEffect(async () => {
+    const key = "cauta furnizori";
+    const payload = ["cauta furnizori"];
 
-        const translatedData = await fetch('/translate', {
-            method: 'POST',
-            body: JSON.stringify(payload)
-        }).then(resp => resp.json()).then(data => data);
+    const translatedData = await fetch("https://pago.ro/translate", {
+      method: "POST",
+      body: JSON.stringify(payload),
+    })
+      .then((resp) => resp.json())
+      .then((data) => data);
 
-        setPlaceholderText(translatedData[key]);
-    }, [])
-    return (
+    setPlaceholderText(translatedData[key]);
+  }, []);
+  return (
+    <div className={classes["suppliers-search-wrap"]}>
+      <input
+        type="text"
+        className={classes["quicksearch"]}
+        placeholder={placeholderText}
+        value={searchValue}
+        onChange={searchHandler}
+      />
+    </div>
+  );
+};
 
-        <div className={classes["suppliers-search-wrap"]}>
-            <input
-                type="text"
-                className={classes["quicksearch"]}
-                placeholder={placeholderText}
-                value={searchValue}
-                onChange={searchHandler}
-            />
-        </div>
-    )
-}
-
-export default Search
+export default Search;
